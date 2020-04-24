@@ -1,1 +1,1 @@
-# nodejs-k8s
+# nodejs-kubernetes
